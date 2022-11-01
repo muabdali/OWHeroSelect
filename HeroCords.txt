@@ -1,0 +1,36 @@
+Dva - 350, 833
+Doomfist - 411, 834
+Junker Queen - 467, 834
+Orisa - 543, 843
+Reinhart - 600, 836
+Roadhog - 347, 899
+Sigma - 411, 889
+Winston - 478, 889
+Hamster - 540, 899
+Zarya - 600 , 899
+
+Ashe - 762, 829
+Bastion-831 , 829
+McCree- 904, 829
+Echo- 956, 829
+Genji- 1016, 829
+Hanzo- 1091, 829
+Junkrat- 1150, 829
+Pharah- 1220, 829
+Reaper- 769 , 899
+Shooty Girl- 830, 899
+Soldier- 900, 899
+Sombra- 960, 899
+Torbjorn- 1085, 899
+Tracer- 1151, 899
+Widow- 1211, 899
+Symettra- 1021, 899
+
+Ana - 1381, 829
+Briggette- 1521 , 829
+Lucio- 1368 , 899
+Mercy-1452 , 899
+Moira- 1515, 899
+Zenyatta- 1571, 899
+Shooty Guy- 1450, 829
+Kuriko - 1580 ,829
