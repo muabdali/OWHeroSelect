@@ -4,14 +4,10 @@ def DVASelect():
     pyautogui.click(350, 833)
     pyautogui.click(350, 833)
 
-
-
 def DoomSelect():
     print("Doomfist Selected")
     pyautogui.click(411, 834)
     pyautogui.click(411, 834)
-
-
 
 def JunkerSelect():
     print("Junker Queen Selected")
