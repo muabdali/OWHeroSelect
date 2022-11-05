@@ -83,4 +83,4 @@ def SymettraSelect():
     pyautogui.click(1021, 899)
     pyautogui.click(1021, 899)
 
-#test
+#testt
