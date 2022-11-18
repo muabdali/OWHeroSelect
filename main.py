@@ -1,6 +1,5 @@
 import pyautogui
-from HeroClassFunc import *
-from HeroClassFunc.DPS import SombraSelect
-
-
+from HeroClassFunc.DPS import *
+from HeroClassFunc.Support import *
+from HeroClassFunc.Tanks import * 
 
